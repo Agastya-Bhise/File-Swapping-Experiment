@@ -1,0 +1,4 @@
+This is a piece of sample text.
+This is sample file 2.
+It is to be swapped with file 1.
+Commence testing.
